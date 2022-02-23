@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Further reasons against increasing the number of hackney-coaches</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40755</idno>
+            <idno type="STC">Wing F2564</idno>
+            <idno type="STC">ESTC R20201</idno>
+            <idno type="EEBO-CITATION">12259029</idno>
+            <idno type="OCLC">ocm 12259029</idno>
+            <idno type="VID">57736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57736)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 184:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Further reasons against increasing the number of hackney-coaches</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cab and omnibus service --  England --  London.</term>
+               <term>Carriages and carts --  England --  London.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57736:1"/>
+            <head>Further REASONS againſt increaſing the number of Hackney-Coaches.</head>
+            <p>
+               <label>September 1687.</label> THat the Grand Jury of <hi>Middleſex</hi> preſented to the Court of <hi>Kings-Bench,</hi> then ſitting at <hi>Weſtminſter,</hi> That 400 Hackney-Coaches Driving for Hire about the Cities of <hi>London</hi> and <hi>Weſtminſter</hi> and Precincts aforeſaid, were ſufficient to anſwer the Subjects Occaſions, and that all Su<g ref="char:EOLhyphen"/>pernumeraries are a Common Nuſance; Alſo a great number of Shop<g ref="char:EOLhyphen"/>keepers then by their Petition ſhewed, how great an Annoyance and a Grievance the ſame was to them.</p>
+            <p>The Lords Commiſſioners of the Treaſury to find out the number of Coaches ſo much then Complained of, did order three Perſons to take an Accompt what number of Hackney-Coaches were then in <hi>London, Weſt<g ref="char:EOLhyphen"/>minſter</hi> and Bills of Mortality, and it appeared by the Return by them Sworn to before a Maſter in <hi>Chancery,</hi> that the Number was 626.</p>
+            <p>
+               <label>In <hi>May</hi> 1688.</label> Upon further Complaint thereof, the ſaid Lords of the Treaſury ordered a View to be taken by the Churchwardens and Overſeers of the Poor of each Pariſh within the Places aforeſaid, and by the Return by them, made the number appeared to be about 600, and were then by the late King <hi>James</hi> reduced to 400.</p>
+            <p>That in <hi>April</hi> 1679, a Certificate by the Jury of Nuſances and An<g ref="char:EOLhyphen"/>noyances for the Liberties of <hi>Weſtminſter</hi> to this Honourable Houſe, and exhibited before the Committee, that the great number of Hackney Coaches were inſufferable Grievances within their Liberties.</p>
+            <p>And there was alſo then another Certificate from the Juries of Nu<g ref="char:EOLhyphen"/>ſances of the Dutchy of <hi>Lancaſter</hi> to the ſame purpoſe.</p>
+            <p>
+               <label>The 2d of <hi>May</hi> 1689.</label> It was ſuggeſted to a Committee appointed touching the Regulating of Hackney-Coaches, by one of the Interlopers, that about 1000, and by another on their behalf, that about 1200 Hackney-Coaches now Ply, which induced the Committee to Report 600 the Number hereafter to be Licenſed, and that each ſhould pay 1 <hi>l.</hi> 13 <hi>s.</hi> 4 <hi>d. per Annum</hi> more than formerly for Rent.</p>
+            <p>But ſince that time there hath been at the Charge of the 400 an Account taken by Indifferent Perſons of the number of Hackney-Coaches that now are in <hi>London, Weſtminſter,</hi> and within the Weekly Bills of Mortality, and by their Affidavits made before a Maſter in <hi>Chancery,</hi> it appeareth, that the Information given about the number of Coaches to the ſaid Com<g ref="char:EOLhyphen"/>mittee was not true, and that though the Interlopers have lately Plyed with many more Coaches than they did formerly, yet the number of Hackney-Coaches now within all the Places aforeſaid is but 720, poſſeſt and kept but by 464 Perſons, and about 100 of the ſaid 720 lie ſtill or are in the Country upon Journeys and Funerals, ſo that the Streets will notwithſtanding this Act if it paſſes, be near as much crowded and
+<pb facs="tcp:57736:2"/> peſtered with Hackney-Coaches as before, and the poor Hackney-Coachmen will be undone, unleſs it be now prevented by Reducing them to much leſs number than 600, and their Rent to leſs Sum than 6 <hi>l.</hi> 13 <hi>s.</hi> 4 <hi>d. per Annum.</hi>
+            </p>
+            <p>
+               <label>Note.</label> That by Reaſon of the daily increaſe of Gentlemen and Tradeſmens Coaches, and the Convenience of Trade, as Carts, Cars, and Drayes which help to ſtop up the Streets, and cannot be reſtrained, (in a few years the paſſages of the Streets in the Center of Buſineſs in the whole Town, being the places mentioned in the Petition of the Inhabitants) which Streets cannot be made wider, but muſt continue the ſame, will be wholly ſtop't up, if not now prevented by reducing and taking off a conſiderable num<g ref="char:EOLhyphen"/>ber of the 600 Coaches Reported.</p>
+            <p>Beſides, if ſo many be now Licenſed, when you find the Inconvenience to be greater then now it is, it will be a hard thing to reſtrain, having once given them a Trade, to take it away.</p>
+            <trailer>FINIS.</trailer>
+            <trailer>Further Reaſons againſt increaſing the number of Hackney-Coaches.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
